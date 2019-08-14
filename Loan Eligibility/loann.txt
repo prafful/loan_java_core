@@ -1,0 +1,6 @@
+Customer ID,Customer Name,Loan Ac No,Loan Amount,Total Instalments,Paid Instalments
+134562,fifi,4578,100005,10,5
+123478,dig,45755,12897863,50,10
+457845,gig,4588,4578255,15,10
+123474,big,45735,12897863,50,28
+457844,pig,45338,4578255,15,8
